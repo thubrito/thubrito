@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá!,+Eu+sou+o+Arthur+Brito!;Hello!,+I'm+Arthur+Brito!&font=Share%20Tech%20Mono&color=1E90FF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá!+Eu+sou+o+Arthur+Brito!;Hello!+I'm+Arthur+Brito!&font=Share%20Tech%20Mono&color=1E90FF)](https://git.io/typing-svg)
 
 ---
 
